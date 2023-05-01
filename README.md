@@ -19,7 +19,7 @@
 Кнопка сохранить становится активной и доступной для нажатия, только в случае заполнения полей и выборе оценки.
 
 <p align="center">
-<img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/1.JPG"  width="350"/>
+<img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/1.jpg"  width="350"/>
 </p>
 
 
@@ -37,7 +37,7 @@
 - Добавлен индекс для быстрого поиска по году.
 
 <p align="center">
-<img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/1.jpg"  width="350"/>
+<img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/2.jpg"  width="350"/>
 </p>
 
 
