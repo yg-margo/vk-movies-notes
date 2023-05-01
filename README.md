@@ -18,7 +18,7 @@
 
 Кнопка сохранить становится активной и доступной для нажатия, только в случае заполнения полей и выборе оценки.
 
-<p align="right">
+<p align="center">
 <img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/1.JPG"  width="350"/>
 </p>
 
@@ -36,7 +36,7 @@
   - Только значение в виде 30.09.2022
 - Добавлен индекс для быстрого поиска по году.
 
-<p align="right">
+<p align="center">
 <img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/1.jpg"  width="350"/>
 </p>
 
@@ -61,11 +61,11 @@
 5) Список фильмов загружается с пагинацией.
   - При достижении конца списка, загружается следующая страница.
   - Жестом pull-to-refresh список загружается с первой страницы.
-  <p align="right">
+  <p align="center">
 <img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/3.jpg"  width="350"/>
 </p>
 
-<p align="right">
+<p align="center">
 <img  src="https://github.com/yg-margo/vk-movies-notes/blob/main/imagine/4.jpg"  width="350"/>
 </p>
 
